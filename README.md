@@ -1,4 +1,5 @@
-📊 #Sales Performance Analysis of Mobile Devices by Product Class
+📊 # Sales Performance Analysis of Mobile Devices by Product Class
+
 This project includes two Excel dashboards created using the same sales dataset, each designed to deliver a distinct analytical perspective.
 They help uncover profitability trends, regional performance, and class-level insights (Smartphones vs Tablets) to support better decision-making.
 
